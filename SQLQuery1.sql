@@ -1,5 +1,5 @@
-Create database Store
-use ;
+Create database Golf
+use Golf;
 
 Create Schema production;
 Go
