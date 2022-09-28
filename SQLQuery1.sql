@@ -1,5 +1,5 @@
-Create database Golf
-use Golf;
+Create database Golff
+use Golff;
 
 Create Schema production;
 Go
